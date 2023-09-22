@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @KenjiTobias
+- 👀 I’m interested in Programming. ...
+- 🌱 I'm currently Learning JavaScript, Java, XML, C++, Python and C#.  ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+KenjiTobias/KenjiTobias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+
